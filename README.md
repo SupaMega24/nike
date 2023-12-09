@@ -1,8 +1,13 @@
-# React + Vite
+# Nike Shoe Page with Tailwind and React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This project is a dynamic Nike shoe page created using Tailwind CSS and React with Vite as the build tool. It serves as a valuable learning experience, allowing me to explore the seamless integration of Tailwind CSS into a React project and leveraging the efficiency of Vite for a smooth development workflow.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[View Live Site](https://nike-display.netlify.app/)
+
+Features
+Tailwind CSS Styling: The project harnesses the power of Tailwind CSS to effortlessly style components and create a visually appealing Nike shoe page.
+
+React Components: Utilizing React components enhances the modularity and maintainability of the code, making it easy to manage different sections of the page.
+
+Vite Build Tool: The use of Vite as the build tool ensures fast and efficient development, providing an enhanced development experience.
