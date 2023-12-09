@@ -32,22 +32,22 @@ export const statistics = [
 export const products = [
     {
         imgURL: shoe4,
-        name: "Nike Air Jordan-01",
+        name: "Nike Air Classic-01",
         price: "$200.20",
     },
     {
         imgURL: shoe5,
-        name: "Nike Air Jordan-10",
+        name: "Nike Air Classic-10",
         price: "$210.20",
     },
     {
         imgURL: shoe6,
-        name: "Nike Air Jordan-100",
+        name: "Nike Air Classic-100",
         price: "$220.20",
     },
     {
         imgURL: shoe7,
-        name: "Nike Air Jordan-001",
+        name: "Nike Air Classic-001",
         price: "$230.20",
     },
 ];
@@ -92,7 +92,7 @@ export const footerLinks = [
         links: [
             { name: "Air Force 1", link: "/" },
             { name: "Air Max 1", link: "/" },
-            { name: "Air Jordan 1", link: "/" },
+            { name: "Air Classic 1", link: "/" },
             { name: "Air Force 2", link: "/" },
             { name: "Nike Waffle Racer", link: "/" },
             { name: "Nike Cortez", link: "/" },
